@@ -4,11 +4,11 @@ PackageVersion: 0.1.0-beta.1
 PackageLocale: en-US
 Publisher: MakPr016
 PublisherUrl: https://github.com/MakPr016
-PublisherSupportUrl: https://github.com/MakPr016/Zyguard/issues
+PublisherSupportUrl: https://github.com/MakPr016/zyguard-releases/issues
 PackageName: zyguard
-PackageUrl: https://github.com/MakPr016/Zyguard
+PackageUrl: https://github.com/MakPr016/zyguard-releases
 License: MIT
-LicenseUrl: https://github.com/MakPr016/Zyguard/blob/main/LICENSE
+LicenseUrl: https://github.com/MakPr016/zyguard-releases/blob/main/LICENSE
 ShortDescription: A from-scratch, GPU-accelerated local inference engine and TUI chat client for the LFM2.5 model family.
 Description: >-
   zyguard is a from-scratch LLM inference engine written in Rust, running
